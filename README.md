@@ -107,7 +107,3 @@ surveillance/
 ├── install.sh          # Automated installer
 └── README.md           # This file
 ```
-
-## License
-
-MIT License - For educational and personal use only.
