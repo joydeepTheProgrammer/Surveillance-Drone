@@ -91,7 +91,7 @@ http://raspberry-pi-ip:8080
 ```
 ## Block Diagram 
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2462c9cc-93a3-49a6-a866-af600b32c69b" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b125c45-42ee-4e0e-af83-63443cc10b9e" />
 
 ---
 ## File Structure
