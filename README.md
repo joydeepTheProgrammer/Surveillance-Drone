@@ -1,4 +1,4 @@
-# Surveillance Drone v1.0
+# Surveillance System v1.0
 
 A personal/educational use, bare-metal optimized surveillance system for Raspberry Pi using C++17, V4L2, and OpenCV.
 
