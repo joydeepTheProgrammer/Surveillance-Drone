@@ -1,6 +1,6 @@
-# Surveillance System v1.0
+# Home Surveillance System v1.0
 
-A personal/educational use, bare-metal optimized surveillance system for Raspberry Pi using C++17, V4L2, and OpenCV.
+A personal/educational use, bare-metal optimized home surveillance system for Raspberry Pi using C++17, V4L2, and OpenCV.
 
 ## Features
 
